@@ -1,6 +1,6 @@
 # RGB-D-Face-Database ([Website](https://sites.google.com/site/avlrgbdfacedatabase/))
 
-Gee-Sern Jison Hsu ; Yu-Lun Liu ; Hsiao-Chia Peng ; Po-Xun Wu
+Gee-Sern Jison Hsu , Yu-Lun Liu ; Hsiao-Chia Peng , Po-Xun Wu
 
 The RGBDFaces contains 28 subjects, 13 poses (L90.,L75., L60., L45., ... , R60., R75.,R90) and 5 distances (1m, 1.2m, 1.5m, 1.7m and 2m) between the Kinect sensor and the subject. The set of a sample subject is shown below.
 
