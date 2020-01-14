@@ -4,18 +4,18 @@ Gee-Sern Jison Hsu ; Yu-Lun Liu ; Hsiao-Chia Peng ; Po-Xun Wu
 
 The RGBDFaces contains 28 subjects, 13 poses (L90.,L75., L60., L45., ... , R60., R75.,R90) and 5 distances (1m, 1.2m, 1.5m, 1.7m and 2m) between the Kinect sensor and the subject. The set of a sample subject is shown below.
 
-We hope that the Pulse from face (RGB-D-Face) database could revolutionized the landscape of heart rate detection research. A detailed introduction of RGB-D-Face can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/8272721).
+We hope that the Pulse from face (RGB-D-Face) database could revolutionized the landscape of heart rate detection research. A detailed introduction of RGB-D-Face can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6914582).
 
 Here are some examples from the dataset.
 
-![Alt text](HR_sample.PNG?raw=true "Title")
+![Alt text](fig7.jpg?raw=true "Title")
 
 
 Update
 --
 |Date|Updata|
 |----|------|
-|2018-02-01|RGB-D-Face dataset is composed and made available to the research community.|
+|2020-01-14|RGB-D-Face dataset is composed and made available to the research community.|
 
 
 Data Download 
@@ -60,4 +60,4 @@ No country or institution is excluded of any of the above restrictions. Failure 
 
 Download Link
 -
-[RGB-D-Face Download Link](https://drive.google.com/file/d/15pBg6NUWnATxv47Rb6lyswyBk2kRiHdO/view)
+[RGB-D-Face Download Link](http://140.118.199.217:5000/sharing/fbsharing-ffcN5TBJ)
