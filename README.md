@@ -3,8 +3,7 @@
 Gee-Sern Jison Hsu , Yu-Lun Liu , Hsiao-Chia Peng , Po-Xun Wu
 
 Most RGB-D-based research focuses on scene reconstruction, gesture analysis, and simultaneous localization and mapping, but only a few study its impacts on face recognition. A common yet challenging scenario considered in face recognition takes a single 2D face of frontal pose as the gallery and other poses as the probe set. We consider a similar scenario but with an RGB-D image pair taken at frontal pose for each subject in the gallery, only 2D images with a large scope of pose variations in the probe set, and study the advantage of the additional depth map on top of the regular RGB image.
-
-The RGB-D-Faces contains 28 subjects, 13 poses (L90.,L75., L60., L45., ... , R60., R75.,R90) and 5 distances (1m, 1.2m, 1.5m, 1.7m and 2m) between the Kinect sensor and the subject.
+We consider a scenario in which an RGB-D image of a frontal face is collected for each subject in the gallery set, but the probe set contains RGB images only. This scenario is to simulate a situation that an RGB-D camera is available only at user registration phase, but recognition must be carried out on RGB images that can be easily obtained by a regular camera without the depth channel. 
 
 We hope that the RGB-D-Face database could revolutionized the landscape of heart rate detection research. A detailed introduction of RGB-D-Face can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6914582).
 
