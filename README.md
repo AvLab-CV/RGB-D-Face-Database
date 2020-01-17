@@ -1,8 +1,8 @@
 # RGB-D-Based Face Reconstruction and Recognition ([Website](https://sites.google.com/site/avlrgbdfacedatabase/))
 
-Gee-Sern Jison Hsu , Yu-Lun Liu , Hsiao-Chia Peng , Po-Xun Wu
+By Gee-Sern Jison Hsu , Yu-Lun Liu , Hsiao-Chia Peng , Po-Xun Wu
 
-Most RGB-D-based research focuses on scene reconstruction, gesture analysis, and simultaneous localization and mapping, but only a few study its impacts on face recognition.We consider a similar scenario but with an RGB-D image pair taken at frontal pose for each subject in the gallery, only 2D images with a large scope of pose variations in the probe set, and study the advantage of the additional depth map on top of the regular RGB image.To study the performance variation of the proposed approach with RGB-D images taken at different distances, we built a new RGB-D face dataset on our own, called RGBDFaces.The RGBDFaces contains 28 subjects, 11 poses (L75°, L60°, L45°,..., R60°, R75°) and 5 distances (1m, 1.2m, 1.5m, 1.7m and 2m) between the Kinect sensor and the subject.
+Most RGB-D-based research focuses on scene reconstruction, gesture analysis, and simultaneous localization and mapping, but only a few study its impacts on face recognition. We consider a similar scenario but with an RGB-D image pair taken at frontal pose for each subject in the gallery, only 2D images with a large scope of pose variations in the probe set, and study the advantage of the additional depth map on top of the regular RGB image. To study the performance variation of the proposed approach with RGB-D images taken at different distances, we built a new RGB-D face dataset on our own, called RGBDFaces. The RGBDFaces contains 28 subjects, 11 poses (L75°, L60°, L45°,..., R60°, R75°) and 5 distances (1m, 1.2m, 1.5m, 1.7m and 2m) between the Kinect sensor and the subject.
 
 We hope that the RGB-D-Face database could revolutionized the landscape of face recognition research. A detailed introduction of RGB-D-Face can be found in the [paper](https://ieeexplore.ieee.org/abstract/document/6914582).
 
