@@ -47,7 +47,7 @@ I have read and agreed to follow the restrictions specified in the RGB-D-Face da
 ```
 In general, a password will take 3-7 workdays to issue. To avoid problems with our spam filter, make sure that your email is sent from an .edu (or similar) address. Failure to follow the instruction may result in no response. 
 
-Database administrator: qunc85@gmail.com
+Database administrator: avlabdba@gmail.com
 
 Prof. Hsu's e-mail: jison@mail.ntust.edu.tw
 
